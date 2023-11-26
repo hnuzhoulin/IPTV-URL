@@ -8,7 +8,8 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/primer.css">
 </head>
 <body>
-    <h1 style="color:red">各种流媒体账号合租，ChatGPT、绘图AI、家庭影音设备推荐：<a href="https://hezu.v1.mk">点击查看</a></h1>
+    <h1>各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：<a href="https://nfvideo.cc">点击上车</a></h1>
+    <h1>各种流媒体账号合租，ChatGPT、绘图AI：<a href="https://universalbus.cc">点击上车</a></h1>
     <h4 dir="auto"><a id="user-content-ftindy" class="anchor" aria-hidden="true" href="#ftindy">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                  aria-hidden="true">
