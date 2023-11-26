@@ -37,10 +37,8 @@
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
         </p>
-        <p dir="auto"><code>敬请期待</code>&nbsp;&nbsp;&nbsp;&nbsp;请期待
-        </p>
         
-<h4 dir="auto"><a id="user-content-范明明" class="anchor" aria-hidden="true" href="#范明明">
+<h4 dir="auto"><a id="user-content-BigBigGrandG" class="anchor" aria-hidden="true" href="#BigBigGrandG">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                  aria-hidden="true">
                 <path fill-rule="evenodd"
