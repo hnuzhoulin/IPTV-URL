@@ -68,7 +68,7 @@ http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视4K测试
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏移动8K测试.png" group-title="江苏",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1,tvg-id="苏州4K频道" tvg-name="苏州4K频道" tvg-logo="https://epg.112114.xyz/logo/苏州4K.png" group-title="其他",苏州4K频道
