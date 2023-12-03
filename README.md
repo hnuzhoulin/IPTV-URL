@@ -34,8 +34,6 @@
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;HBGD源
-        </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
         </p>
         
