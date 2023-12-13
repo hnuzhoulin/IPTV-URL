@@ -24,7 +24,7 @@
         </p>
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili直播
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/dzh.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;大杂烩源
+        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;大杂烩源
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG源
